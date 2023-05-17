@@ -1,0 +1,66 @@
+{
+    "questions":[
+    {
+        "question":"The world famous monument ‘Pyramid’ is located in …",
+        "choices":["Russia","Iraq","Egypt","Greece"],
+        "correctAnswer":"Egypt"
+    },
+    
+    {
+        "question":"Ustad Amajd Ali Khan is related to …",
+        "choices":["Sitar","Table","Flute","Sarod"],
+        "correctAnswer":"Sitar"
+    
+    },
+    
+    {
+        "question":"Who is the Prime Minister of Malaysia?",
+        "choices":["Anwar Ibrahim","Lee Kuan Yew","Suharto","Wilson"],
+        "correctAnswer":"Anwar Ibrahim"
+    },
+    
+    {
+        "question":"Which one at below move fatest?",
+        "choices":["Car","Bicycle","Ship","Plane"],
+        "correctAnswer":"Plane"
+    },
+    
+    {
+        "question":"In which country that Kuala Lumpur is located?",
+        "choices":["Singapore","Thailand","Malaysia","China"],
+        "correctAnswer":"Malaysia"
+    },
+    
+    {
+        "question":"Which country has 4 seasons?",
+        "choices":["Singapore","Thailand","Malaysia","China"],
+        "correctAnswer":"China"
+    },
+    
+    {
+        "question":"What the major language used in US?",
+        "choices":["English","Mandarin","Malay","Tamil"],
+        "correctAnswer":"English"
+    },
+    
+    {
+        "question":"What is the capital for China?",
+        "choices":["Kuala Lumpur","Bangkok","Beijing","London"],
+        "correctAnswer":"Beijing"
+    },
+    
+    {
+        "question":"Which creature or animal can fly?",
+        "choices":["Turtle","Horse","Snake","Bird"],
+        "correctAnswer":"Bird"
+    },
+    
+    {
+        "question":"Who is the founder of Microsoft?",
+        "choices":["Tom Cruise","Mohamad","Bill Gate","Wilson Chung"],
+        "correctAnswer":"Bill Gate"
+    }
+       
+    ]
+    }
+    
